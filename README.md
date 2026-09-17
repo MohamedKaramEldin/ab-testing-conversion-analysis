@@ -6,6 +6,4 @@ This project was completed to learn and practice probability, hypothesis testing
 
 The analysis did not find sufficient evidence that the new page improves conversion. The notebook explains the steps and how I interpreted the results.
 
-To run the notebook, keep `ab_data.csv` and `countries.csv` in the same folder.
-
-The datasets were provided by Udacity as part of their Data Analysis Advanced Track.
+The datasets `ab_data.csv` and `countries.csv` are included in the `data` directory, and were provided by Udacity as part of their Data Analysis Advanced Track.
